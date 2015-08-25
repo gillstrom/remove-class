@@ -1,6 +1,6 @@
 {
   "name": "remove-class",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Remove a given class from elements.",
   "license": "MIT",
   "repository": "gillstrom/remove-class",
