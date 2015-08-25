@@ -1,0 +1,31 @@
+{
+  "name": "remove-class",
+  "version": "0.0.0",
+  "description": "Remove a given class from elements.",
+  "license": "MIT",
+  "repository": "gillstrom/remove-class",
+  "author": {
+    "name": "Andreas Gillström",
+    "email": "andreasgillstrom@gmail.com",
+    "url": "github.com/gillstrom"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "browser",
+    "class",
+    "class-name",
+    "dom",
+    "element",
+    "elements",
+    "name",
+    "remove"
+  ],
+  "dependencies": {
+    "obj-type": "^1.0.0"
+  }
+}
